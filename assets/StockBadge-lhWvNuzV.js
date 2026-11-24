@@ -1,0 +1,1 @@
+import{g as a,j as s}from"./index-DTh8G7BD.js";import{B as n}from"./PageHeader-a5yLx7Cx.js";const r={ok:{tone:"success",label:"Normal"},baixo:{tone:"warning",label:"Baixo"},"sem-estoque":{tone:"danger",label:"Sem estoque"}};function i({product:e}){const{tone:o,label:t}=r[a(e)];return s.jsx(n,{tone:o,children:t})}export{i as S};

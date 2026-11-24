@@ -1,0 +1,1 @@
+import{j as s}from"./index-DTh8G7BD.js";function m({tone:e="surface",title:r,action:a,children:c,className:d="",...n}){return s.jsxs("section",{className:`card card--${e} ${d}`,...n,children:[(r||a)&&s.jsxs("header",{className:"card__header",children:[r&&s.jsx("h3",{className:"card__title",children:r}),a]}),c]})}export{m as C};
